@@ -5,5 +5,5 @@ streamlit==0.73.0
 matplotlib==3.2.1
 seaborn==0.10.0
 python_pptx==0.6.18
-Pillow==8.0.1
+Pillow==8.2.0
 xlrd==1.2.0
